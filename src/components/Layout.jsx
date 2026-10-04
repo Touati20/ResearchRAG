@@ -253,7 +253,7 @@ const Layout = ({ children }) => {
             variant="outlined"
             startIcon={<GitHubIcon />}
             fullWidth
-            href="https://github.com/MouadHsb/ResearchRAG"
+            href="https://github.com/Touati20/ResearchRAG"
             target="_blank"
             rel="noopener noreferrer"
             sx={{ 
@@ -325,7 +325,7 @@ const Layout = ({ children }) => {
             <Tooltip title="GitHub Repository">
               <IconButton
                 color="inherit"
-                href="https://github.com/MouadHsb/ResearchRAG"
+                href="https://github.com/Touati20/ResearchRAG"
                 target="_blank"
                 rel="noopener noreferrer"
                 sx={{ 
